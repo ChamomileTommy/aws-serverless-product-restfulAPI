@@ -4,6 +4,12 @@
 How to Build a Serverless REST API with Node.js, TypeScript, and AWS DynamoDB
 
 
+## Prerequisites
+
+AWS CLI installed and configured
+
+![My Image](awsconfigure.png)
+
 ## Build and Deploy
 
 Clone the project
